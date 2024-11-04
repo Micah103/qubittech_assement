@@ -151,6 +151,12 @@ This section provides command-line instructions for running each solution indivi
    ./TCPProxyServer
    ```
 
+3. **Run the Test Connections**:
+   ```bash
+   cd TCPProxyServer
+   python connections_1000.py
+   ```
+
    - **Testing**: Use **Postman** or **Perf** for load testing, or any compatible client to test server responses.
 
 ### Running Question 4: JSON Parser
