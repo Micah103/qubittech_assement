@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/SQLBuilderORMTest.dir/main.cpp.o CMakeFiles/SQLBuilderORMTest.dir/SQLBuilder.cpp.o -o SQLBuilderORMTest  /usr/lib/x86_64-linux-gnu/libsqlite3.so

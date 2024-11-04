@@ -1,0 +1,3 @@
+/home/rahim/Desktop/SQLBuilderLib/build/CMakeFiles/SQLBuilderORMTest.dir
+/home/rahim/Desktop/SQLBuilderLib/build/CMakeFiles/edit_cache.dir
+/home/rahim/Desktop/SQLBuilderLib/build/CMakeFiles/rebuild_cache.dir

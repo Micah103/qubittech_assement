@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/home/rahim/Desktop/SQLBuilderLib/build",
+  "command": "/usr/bin/c++   -g -std=gnu++11 -o CMakeFiles/SQLBuilderORMTest.dir/main.cpp.o -c /home/rahim/Desktop/SQLBuilderLib/main.cpp",
+  "file": "/home/rahim/Desktop/SQLBuilderLib/main.cpp",
+  "output": "CMakeFiles/SQLBuilderORMTest.dir/main.cpp.o"
+},
+{
+  "directory": "/home/rahim/Desktop/SQLBuilderLib/build",
+  "command": "/usr/bin/c++   -g -std=gnu++11 -o CMakeFiles/SQLBuilderORMTest.dir/SQLBuilder.cpp.o -c /home/rahim/Desktop/SQLBuilderLib/SQLBuilder.cpp",
+  "file": "/home/rahim/Desktop/SQLBuilderLib/SQLBuilder.cpp",
+  "output": "CMakeFiles/SQLBuilderORMTest.dir/SQLBuilder.cpp.o"
+}
+]
