@@ -1,0 +1,4 @@
+INFO: Application started
+WARNING: Low disk space
+ERROR: Unable to open configuration file
+INFO: Application stopped

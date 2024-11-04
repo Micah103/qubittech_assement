@@ -1,0 +1,20 @@
+[
+{
+  "directory": "/home/rahim/Desktop/LogFileProcessor/build",
+  "command": "/usr/bin/c++   -g -std=gnu++14 -o CMakeFiles/LogProcessor.dir/DatabaseHandler.cpp.o -c /home/rahim/Desktop/LogFileProcessor/DatabaseHandler.cpp",
+  "file": "/home/rahim/Desktop/LogFileProcessor/DatabaseHandler.cpp",
+  "output": "CMakeFiles/LogProcessor.dir/DatabaseHandler.cpp.o"
+},
+{
+  "directory": "/home/rahim/Desktop/LogFileProcessor/build",
+  "command": "/usr/bin/c++   -g -std=gnu++14 -o CMakeFiles/LogProcessor.dir/LogProcessor.cpp.o -c /home/rahim/Desktop/LogFileProcessor/LogProcessor.cpp",
+  "file": "/home/rahim/Desktop/LogFileProcessor/LogProcessor.cpp",
+  "output": "CMakeFiles/LogProcessor.dir/LogProcessor.cpp.o"
+},
+{
+  "directory": "/home/rahim/Desktop/LogFileProcessor/build",
+  "command": "/usr/bin/c++   -g -std=gnu++14 -o CMakeFiles/LogProcessor.dir/main.cpp.o -c /home/rahim/Desktop/LogFileProcessor/main.cpp",
+  "file": "/home/rahim/Desktop/LogFileProcessor/main.cpp",
+  "output": "CMakeFiles/LogProcessor.dir/main.cpp.o"
+}
+]
