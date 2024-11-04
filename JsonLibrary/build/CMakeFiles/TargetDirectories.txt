@@ -1,0 +1,7 @@
+/home/rahim/Desktop/JsonLibrary/build/CMakeFiles/JsonParser.dir
+/home/rahim/Desktop/JsonLibrary/build/CMakeFiles/edit_cache.dir
+/home/rahim/Desktop/JsonLibrary/build/CMakeFiles/rebuild_cache.dir
+/home/rahim/Desktop/JsonLibrary/build/CMakeFiles/list_install_components.dir
+/home/rahim/Desktop/JsonLibrary/build/CMakeFiles/install.dir
+/home/rahim/Desktop/JsonLibrary/build/CMakeFiles/install/local.dir
+/home/rahim/Desktop/JsonLibrary/build/CMakeFiles/install/strip.dir

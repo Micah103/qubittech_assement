@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/rahim/Desktop/JsonLibrary/build",
+  "command": "/usr/bin/c++  -I/home/rahim/Desktop/JsonLibrary -g -std=gnu++17 -o CMakeFiles/JsonParser.dir/main.cpp.o -c /home/rahim/Desktop/JsonLibrary/main.cpp",
+  "file": "/home/rahim/Desktop/JsonLibrary/main.cpp",
+  "output": "CMakeFiles/JsonParser.dir/main.cpp.o"
+}
+]
