@@ -191,4 +191,3 @@ This section provides command-line instructions for running each solution indivi
 
 ---
 
-This README should provide all necessary setup, run, and usage information to make the most of this project as a complete interview preparation tool! Let me know if you’d like further customization.
