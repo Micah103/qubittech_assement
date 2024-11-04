@@ -106,19 +106,22 @@ This project requires a **Linux environment** (Kali Linux is recommended) and ha
 
 This section provides command-line instructions for running each solution individually. Ensure you've built the project as described in the [Build Instructions](#build-instructions).
 
-### Running Question 1: Log File Processor
 
-1. **Navigate to the build folder**:
+### Running Question 1: Message Fragmentation Library
+
+1. **Navigate to the Message Fragmentation Library build folder**:
    ```bash
-   cd ~/Desktop/LogFileProcessor/build
+   cd ~/Desktop/MessageFragmentationLibrary/build
    ```
 
-2. **Run the LogProcessor**:
+2. **Run the Message Fragmentation example**:
    ```bash
-   ./LogProcessor
+   ./MessageFragmentationExample
    ```
 
-   - **Note**: Place `logfile.txt` in the same directory or specify the path within the code.
+   - **Functionality**: Processes and reassembles fragmented messages, with error handling output to the console.
+
+
 
 ### Running Question 2: SQL Builder Library
 
@@ -148,21 +151,7 @@ This section provides command-line instructions for running each solution indivi
 
    - **Testing**: Use **Postman** or **Perf** for load testing, or any compatible client to test server responses.
 
-### Running Question 4: Message Fragmentation Library
-
-1. **Navigate to the Message Fragmentation Library build folder**:
-   ```bash
-   cd ~/Desktop/MessageFragmentationLibrary/build
-   ```
-
-2. **Run the Message Fragmentation example**:
-   ```bash
-   ./MessageFragmentationExample
-   ```
-
-   - **Functionality**: Processes and reassembles fragmented messages, with error handling output to the console.
-
-### Running Question 5: JSON Parser
+### Running Question 4: JSON Parser
 
 1. **Navigate to the JSON Parser build folder**:
    ```bash
@@ -177,6 +166,20 @@ This section provides command-line instructions for running each solution indivi
    - **Functionality**: Parses JSON input, outputs structured data to the console.
 
 ---
+
+### Running Question 5: Log File Processor
+
+1. **Navigate to the build folder**:
+   ```bash
+   cd ~/Desktop/LogFileProcessor/build
+   ```
+
+2. **Run the LogProcessor**:
+   ```bash
+   ./LogProcessor
+   ```
+
+   - **Note**: Place `logfile.txt` in the same directory or specify the path within the code.
 
 ## Additional Notes
 
