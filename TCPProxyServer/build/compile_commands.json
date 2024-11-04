@@ -1,0 +1,26 @@
+[
+{
+  "directory": "/home/rahim/Desktop/TCPProxyServer/build",
+  "command": "/usr/bin/c++   -g -std=gnu++17 -o CMakeFiles/TCPProxyServer.dir/main.cpp.o -c /home/rahim/Desktop/TCPProxyServer/main.cpp",
+  "file": "/home/rahim/Desktop/TCPProxyServer/main.cpp",
+  "output": "CMakeFiles/TCPProxyServer.dir/main.cpp.o"
+},
+{
+  "directory": "/home/rahim/Desktop/TCPProxyServer/build",
+  "command": "/usr/bin/c++   -g -std=gnu++17 -o CMakeFiles/TCPProxyServer.dir/Logger.cpp.o -c /home/rahim/Desktop/TCPProxyServer/Logger.cpp",
+  "file": "/home/rahim/Desktop/TCPProxyServer/Logger.cpp",
+  "output": "CMakeFiles/TCPProxyServer.dir/Logger.cpp.o"
+},
+{
+  "directory": "/home/rahim/Desktop/TCPProxyServer/build",
+  "command": "/usr/bin/c++   -g -std=gnu++17 -o CMakeFiles/TCPProxyServer.dir/TCPProxyServer.cpp.o -c /home/rahim/Desktop/TCPProxyServer/TCPProxyServer.cpp",
+  "file": "/home/rahim/Desktop/TCPProxyServer/TCPProxyServer.cpp",
+  "output": "CMakeFiles/TCPProxyServer.dir/TCPProxyServer.cpp.o"
+},
+{
+  "directory": "/home/rahim/Desktop/TCPProxyServer/build",
+  "command": "/usr/bin/c++   -g -std=gnu++17 -o CMakeFiles/TCPProxyServer.dir/ThreadPool.cpp.o -c /home/rahim/Desktop/TCPProxyServer/ThreadPool.cpp",
+  "file": "/home/rahim/Desktop/TCPProxyServer/ThreadPool.cpp",
+  "output": "CMakeFiles/TCPProxyServer.dir/ThreadPool.cpp.o"
+}
+]
