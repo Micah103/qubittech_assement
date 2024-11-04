@@ -1,5 +1,5 @@
 
-# Interview Answers with Five C++ Coding Solutions
+# Interview C++ Coding Solutions
 
 This project includes solutions to five coding questions implemented in C++. The solutions are optimized for clarity, efficiency, and portability. Detailed setup and run instructions are provided for each question, using **CMake** in a **Kali Linux environment** with **Visual Studio Code**.
 
