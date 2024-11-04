@@ -62,13 +62,13 @@ This project requires a **Linux environment** (Kali Linux is recommended) and ha
 
 ## Individual Question Descriptions
 
-### Question 1: Log File Processor
+### Question 1: Message Fragmentation Library
 
-- **Description**: Reads large log files, processes each line using multithreading, and stores results in a database.
-- **Technologies**: C++, SQLite, CMake
+- **Description**: Splits long messages into smaller chunks, reassembles fragments, and manages missing or corrupted data.
+- **Technologies**: C++, CMake
 - **Key Components**:
-  - `LogProcessor` class: Handles file reading and processing.
-  - `DatabaseHandler` class: Manages database connections and writes processed log entries.
+  - `Fragmenter` and `MessageAssembler` classes: Implement message fragmentation, reassembly, and error handling.
+
 
 ### Question 2: SQL Builder Library
 
@@ -85,14 +85,8 @@ This project requires a **Linux environment** (Kali Linux is recommended) and ha
 - **Key Components**:
   - `TCPServer` and `ThreadPool` classes: Manage incoming connections, distribute load over a 5-thread pool, and handle logging.
 
-### Question 4: Message Fragmentation Library
 
-- **Description**: Splits long messages into smaller chunks, reassembles fragments, and manages missing or corrupted data.
-- **Technologies**: C++, CMake
-- **Key Components**:
-  - `Fragmenter` and `MessageAssembler` classes: Implement message fragmentation, reassembly, and error handling.
-
-### Question 5: JSON Parser
+### Question 4: JSON Parser
 
 - **Description**: A lightweight JSON parser that reads JSON strings and outputs structured data.
 - **Technologies**: C++, CMake
@@ -101,6 +95,14 @@ This project requires a **Linux environment** (Kali Linux is recommended) and ha
   - `JsonTypes` for handling specific JSON data types (e.g., arrays, objects, booleans).
 
 ---
+### Question 5: Log File Processor
+
+- **Description**: Reads large log files, processes each line using multithreading, and stores results in a database.
+- **Technologies**: C++, SQLite, CMake
+- **Key Components**:
+  - `LogProcessor` class: Handles file reading and processing.
+  - `DatabaseHandler` class: Manages database connections and writes processed log entries.
+
 
 ## Running Each Question
 
@@ -116,7 +118,7 @@ This section provides command-line instructions for running each solution indivi
 
 2. **Run the Message Fragmentation example**:
    ```bash
-   ./MessageFragmentationExample
+   ./FragmentationTest
    ```
 
    - **Functionality**: Processes and reassembles fragmented messages, with error handling output to the console.
@@ -132,7 +134,7 @@ This section provides command-line instructions for running each solution indivi
 
 2. **Run the SQL Builder example**:
    ```bash
-   ./SQLBuilderExample
+   ./SQLBuilderORMTest
    ```
 
    - **Note**: Database operations will output queries generated using the chain-style methods.
